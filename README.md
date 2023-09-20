@@ -1,2 +1,2 @@
-# ds_tools
-Data Science Tools Course Final Assignment
+# Data Science Tools 
+This is final Assignment of Data Science tools course 
